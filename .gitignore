@@ -1,0 +1,17 @@
+# This public hub starts with documentation. Publish binaries as release assets.
+*.exe
+*.dll
+*.zip
+*.7z
+*.iso
+*.bin
+*.rom
+*.z64
+*.v64
+*.n64
+*.log
+*.dmp
+.env
+.env.*
+Thumbs.db
+.DS_Store
